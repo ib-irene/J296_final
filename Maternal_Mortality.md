@@ -46,6 +46,7 @@ After that, they introduced a statewide seatbelt campaign. But resources were at
 
 Those problems were, among others, substance abuse, continue to plague the whole country to the day. 
 
+
 ### Drug overuse: 
 
 !['Drug overuse map','drugs_map'](/drugs_map.png)
@@ -59,6 +60,7 @@ Withdrawal is not recommended, not even if it is clinically controlled. “It's 
 The treatment in methadone clinics has proved a better outcome, especially during pregnancy but in rural, centralized states, those are usually only in the big cities. In New Mexico, there are only 4 clinics, all of them in Albuquerque. And driving distance can go up to 4 hours.
 
 The projection is not hopeful: Herman and his colleagues are seeing a 340% increase in neonatal opioid withdrawal admissions. The national average is 14 hospital admissions for neonatal opioid withdrawal per 100,000 births and at the University of New Mexico Hospital is seven times higher: 74 hospital admissions per 100,000 births.
+
 
 ### Mental health:
 
@@ -76,15 +78,16 @@ Remote counseling came as a breakthrough in the era of Zoom but its shortfalling
 
 All and all, state Departments of Health and the CDC have seating on their desk evidences of why women are dying. It’s just a matter of putting the recommendations committees of expert write in action. 
 
+
 ## Data analysis process
 
-This is the result of a year-long investigative project analyzing the Maternal Mortality Review Committe reports of the 39 states that receive funding from the Centers for Disease Control and Prevention. The funding comes through the [ERASE program as of 2023] (https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/index.html)Enhancing Reviews and Surveillance to Eliminate Maternal Mortality.
+This is the result of a year-long investigative project analyzing the Maternal Mortality Review Committe reports of the 39 states that receive funding from the Centers for Disease Control and Prevention. The funding comes through the [ERASE program](https://www.cdc.gov/reproductivehealth/maternal-mortality/erase-mm/index.html) Enhancing Reviews and Surveillance to Eliminate Maternal Mortality as of 2023.
 
-Additionally, I conducting dozens of interviews with recently pregnant women and families, OB-GYN doctors, nurses and midwives, public health experts, and lawmakers, to better understand why no one is preventing women from dying. 
-
-I read over 1,700 pages worth of MMRC reports of all 39 states and put together this spreadsheet that main indicators of maternal mortality (pregnancy-related deaths and pregnancy-associated deaths) as well as most repeated recommendations to prevent deaths.  
+I read over 1,700 pages worth of MMRC reports of all 39 states and put together [this spreadsheet](https://docs.google.com/spreadsheets/d/1hk2BXYL6vYHLNzF6Ct5Q2J1QNdzCsdG2IPszqWx8NpQ/edit?usp=sharing) to compile the main indicators of maternal mortality (pregnancy-related deaths and pregnancy-associated deaths) as well as most repeated recommendations to prevent deaths.  
 
 For each "leading cause of death", "Yes" means that the cause of death is explicited and "no mention" when it didn't appear – but it couldn't be assumed that it was not a leading cause of death, since some of those reports were brief and didn't get into much analytical detail.  
+
+Additionally, I conducted dozens of interviews with recently pregnant women and families, OB-GYN doctors, nurses and midwives, public health experts, and lawmakers, to better understand the problem. 
 
 The resulting maps illustrate the available information that neither the states nor CDC are acting upon to end maternal mortality.
 
