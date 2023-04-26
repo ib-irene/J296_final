@@ -87,3 +87,5 @@ I read over 1,700 pages worth of MMRC reports of all 39 states and put together 
 For each "leading cause of death", "Yes" means that the cause of death is explicited and "no mention" when it didn't appear – but it couldn't be assumed that it was not a leading cause of death, since some of those reports were brief and didn't get into much analytical detail.  
 
 The resulting maps illustrate the available information that neither the states nor CDC are acting upon to end maternal mortality.
+
+For further information on the process, questions or suggestions, please do not hesitate to contact [contact me](mailto:irene_benedicto@berkeley.edu).
