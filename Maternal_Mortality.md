@@ -27,8 +27,6 @@ In addition, to better understand the problem, we gave a closer look at New Mexi
 
 ### Physical injury:
 
-!['Injuries map','injuries_map'](/injuries_map.png)
-
 
 In the early 1990s, Dr. Elaine Germano took the reins as New Mexico’s public health director, one of the states with a highest maternal mortality. 
 
@@ -49,7 +47,7 @@ Those problems were, among others, substance abuse, continue to plague the whole
 
 ### Drug overuse: 
 
-!['Drug overuse map','drugs_map'](/drugs_map.png)
+
 
 The maternal mortality public health emergency has a lot to do with the opioid epidemic. 
 
@@ -64,7 +62,7 @@ The projection is not hopeful: Herman and his colleagues are seeing a 340% incre
 
 ### Mental health:
 
-!['Mental health','mental_map'](/mental_map.png)
+
 
 That all leads to the third main cause of death: mental health. From withdrawal anxiety to postpartum depression, pregnancy is one of the most challenging times in a woman’s life and the need for mental health support is pressing. Some end up taking their lives.  
 
