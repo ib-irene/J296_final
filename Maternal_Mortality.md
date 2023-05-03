@@ -21,7 +21,7 @@ For each leading cause of maternal death — mental health, drug abuse and physi
 
 In addition, to better understand the problem, we gave a closer look at New Mexico, a very diverse and largely rural state that we found served as a very representative example to illustrate how similar challenges take place across of the U.S.
 
-[To see the interactive map click here](https://datawrapper.dwcdn.net/7pSkF/2/)
+[To see the interactive map click here](https://datawrapper.dwcdn.net/7pSkF/3/)
 
 
 
