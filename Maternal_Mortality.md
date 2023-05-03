@@ -63,7 +63,6 @@ The projection is not hopeful: Herman and his colleagues are seeing a 340% incre
 
 ### Mental health:
 
-!['Mental health','mental_map'](/mental_map.png)
 
 That all leads to the third main cause of death: mental health. From withdrawal anxiety to postpartum depression, pregnancy is one of the most challenging times in a woman’s life and the need for mental health support is pressing. Some end up taking their lives.  
 
